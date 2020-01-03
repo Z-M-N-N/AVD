@@ -16,8 +16,8 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class PostMethodTest {
-	static String nexturl="https://www.867uy.com/shipin/list-%E7%9F%AD%E8%A7%86%E9%A2%91.html";
-	static String downurl="https://www.867uy.com";
+	static String nexturl="https://www.850ii.com/shipin/list-%E7%9F%AD%E8%A7%86%E9%A2%91.html";
+	static String downurl="https://www.850ii.com";
 
 	static Stack<String> stack=new Stack<>();
 	static HttpURLConnection conn = null;
